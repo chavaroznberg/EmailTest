@@ -1,0 +1,16 @@
+# Node
+node_modules/
+/dist/
+/npm-debug.log
+
+# Angular
+client/dist/
+client/node_modules/
+client/.angular/cache/
+
+# .NET
+server/bin/
+server/obj/
+
+# VSCode
+.vscode/
